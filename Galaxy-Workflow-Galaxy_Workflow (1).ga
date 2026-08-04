@@ -1,0 +1,391 @@
+{
+    "a_galaxy_workflow": "true",
+    "annotation": "",
+    "comments": [],
+    "format-version": "0.1",
+    "name": "Galaxy Workflow",
+    "steps": {
+        "0": {
+            "annotation": "",
+            "content_id": null,
+            "errors": null,
+            "id": 0,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "",
+                    "name": "Felis_catus_COX1.fasta"
+                }
+            ],
+            "label": "Felis_catus_COX1.fasta",
+            "name": "Input dataset",
+            "outputs": [],
+            "position": {
+                "left": 10,
+                "top": 10
+            },
+            "tool_id": null,
+            "tool_state": "{\"optional\": false, \"tag\": null}",
+            "tool_version": null,
+            "type": "data_input",
+            "uuid": "96a42a47-9e8b-4c8a-84e4-90a2266b5cc7",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "1": {
+            "annotation": "",
+            "content_id": null,
+            "errors": null,
+            "id": 1,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "",
+                    "name": "Felis_chaus_COX1.fasta"
+                }
+            ],
+            "label": "Felis_chaus_COX1.fasta",
+            "name": "Input dataset",
+            "outputs": [],
+            "position": {
+                "left": 10,
+                "top": 130
+            },
+            "tool_id": null,
+            "tool_state": "{\"optional\": false, \"tag\": null}",
+            "tool_version": null,
+            "type": "data_input",
+            "uuid": "3003d562-0a6a-4f94-9ed5-99c78a9cba27",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "2": {
+            "annotation": "",
+            "content_id": null,
+            "errors": null,
+            "id": 2,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "",
+                    "name": "Felis_silvestris_COX1.fasta"
+                }
+            ],
+            "label": "Felis_silvestris_COX1.fasta",
+            "name": "Input dataset",
+            "outputs": [],
+            "position": {
+                "left": 10,
+                "top": 250
+            },
+            "tool_id": null,
+            "tool_state": "{\"optional\": false, \"tag\": null}",
+            "tool_version": null,
+            "type": "data_input",
+            "uuid": "aead522d-ae15-4120-b3c7-736c9117e3cd",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "3": {
+            "annotation": "",
+            "content_id": null,
+            "errors": null,
+            "id": 3,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "",
+                    "name": "Panthera_pardus_COX1.fasta"
+                }
+            ],
+            "label": "Panthera_pardus_COX1.fasta",
+            "name": "Input dataset",
+            "outputs": [],
+            "position": {
+                "left": 10,
+                "top": 370
+            },
+            "tool_id": null,
+            "tool_state": "{\"optional\": false, \"tag\": null}",
+            "tool_version": null,
+            "type": "data_input",
+            "uuid": "aec0a88c-128f-427d-a6b1-1d0909dbfe33",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "4": {
+            "annotation": "",
+            "content_id": null,
+            "errors": null,
+            "id": 4,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "",
+                    "name": "Panthera_tigris_COX1.fasta"
+                }
+            ],
+            "label": "Panthera_tigris_COX1.fasta",
+            "name": "Input dataset",
+            "outputs": [],
+            "position": {
+                "left": 10,
+                "top": 490
+            },
+            "tool_id": null,
+            "tool_state": "{\"optional\": false, \"tag\": null}",
+            "tool_version": null,
+            "type": "data_input",
+            "uuid": "d3effee8-44a9-4f35-ac83-aa55edac130b",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "5": {
+            "annotation": "",
+            "content_id": null,
+            "errors": null,
+            "id": 5,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "",
+                    "name": "Panthera_uncia_COX1.fasta"
+                }
+            ],
+            "label": "Panthera_uncia_COX1.fasta",
+            "name": "Input dataset",
+            "outputs": [],
+            "position": {
+                "left": 10,
+                "top": 610
+            },
+            "tool_id": null,
+            "tool_state": "{\"optional\": false, \"tag\": null}",
+            "tool_version": null,
+            "type": "data_input",
+            "uuid": "47c29c86-fe5d-44f3-95f3-6d93137bacb1",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "6": {
+            "annotation": "",
+            "content_id": null,
+            "errors": null,
+            "id": 6,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "",
+                    "name": "Vulpes_vulpes_COX1.fasta"
+                }
+            ],
+            "label": "Vulpes_vulpes_COX1.fasta",
+            "name": "Input dataset",
+            "outputs": [],
+            "position": {
+                "left": 10,
+                "top": 730
+            },
+            "tool_id": null,
+            "tool_state": "{\"optional\": false, \"tag\": null}",
+            "tool_version": null,
+            "type": "data_input",
+            "uuid": "70cf9648-0c0f-47bf-b1ce-0bf241d6626b",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "7": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/9.5+galaxy3",
+            "errors": null,
+            "id": 7,
+            "input_connections": {
+                "inputs": [
+                    {
+                        "id": 0,
+                        "output_name": "output"
+                    },
+                    {
+                        "id": 6,
+                        "output_name": "output"
+                    },
+                    {
+                        "id": 5,
+                        "output_name": "output"
+                    },
+                    {
+                        "id": 4,
+                        "output_name": "output"
+                    },
+                    {
+                        "id": 3,
+                        "output_name": "output"
+                    },
+                    {
+                        "id": 2,
+                        "output_name": "output"
+                    },
+                    {
+                        "id": 1,
+                        "output_name": "output"
+                    }
+                ]
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Concatenate datasets",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 230,
+                "top": 10
+            },
+            "post_job_actions": {},
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/9.5+galaxy3",
+            "tool_shed_repository": {
+                "changeset_revision": "ab83aa685821",
+                "name": "text_processing",
+                "owner": "bgruening",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"__input_ext\": \"input\", \"chromInfo\": \"/cvmfs/data.galaxyproject.org/managed/len/ucsc/?.len\", \"inputs\": null, \"queries\": [], \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_uuid": null,
+            "tool_version": "9.5+galaxy3",
+            "type": "tool",
+            "uuid": "d41bd05a-9c21-4df5-879f-692e8221c210",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "8": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/rnateam/mafft/rbc_mafft/7.526+galaxy2",
+            "errors": null,
+            "id": 8,
+            "input_connections": {
+                "input|batches_0|inputs": {
+                    "id": 7,
+                    "output_name": "out_file1"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "MAFFT",
+            "outputs": [
+                {
+                    "name": "outputAlignment",
+                    "type": "fasta"
+                }
+            ],
+            "position": {
+                "left": 450,
+                "top": 10
+            },
+            "post_job_actions": {},
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/rnateam/mafft/rbc_mafft/7.526+galaxy2",
+            "tool_shed_repository": {
+                "changeset_revision": "0a507f4bd19a",
+                "name": "mafft",
+                "owner": "rnateam",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"__input_ext\": \"input\", \"anysymbol\": false, \"chromInfo\": \"/cvmfs/data.galaxyproject.org/managed/len/ucsc/?.len\", \"datatype_selection\": {\"datatype\": \"\", \"__current_case__\": 0}, \"flavour\": {\"type\": \"mafft-fftns\", \"__current_case__\": 2}, \"input\": {\"mapping\": \"implicit\", \"__current_case__\": 0, \"batches\": [{\"__index__\": 0, \"inputs\": null}]}, \"outputFormat\": \"\", \"reorder\": false, \"seed\": null, \"treeout\": false, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_uuid": null,
+            "tool_version": "7.526+galaxy2",
+            "type": "tool",
+            "uuid": "7b5838a4-7f21-49d8-815c-a27980a71d39",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "9": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/mothur_consensus_seqs/mothur_consensus_seqs/1.39.5.0",
+            "errors": null,
+            "id": 9,
+            "input_connections": {
+                "fasta": {
+                    "id": 8,
+                    "output_name": "outputAlignment"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Consensus.seqs",
+            "outputs": [
+                {
+                    "name": "summary",
+                    "type": "tabular"
+                },
+                {
+                    "name": "cons_fasta",
+                    "type": "mothur.align"
+                }
+            ],
+            "position": {
+                "left": 670,
+                "top": 10
+            },
+            "post_job_actions": {},
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/mothur_consensus_seqs/mothur_consensus_seqs/1.39.5.0",
+            "tool_shed_repository": {
+                "changeset_revision": "6f281dc9d01c",
+                "name": "mothur_consensus_seqs",
+                "owner": "iuc",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"__input_ext\": \"input\", \"chromInfo\": \"/cvmfs/data.galaxyproject.org/managed/len/ucsc/?.len\", \"count\": null, \"cutoff\": null, \"fasta\": null, \"name\": null, \"perotu\": {\"use\": \"no\", \"__current_case__\": 1}, \"savelog\": false, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_uuid": null,
+            "tool_version": "1.39.5.0",
+            "type": "tool",
+            "uuid": "8dc0aed9-6fa0-4e13-a579-e38d4ba511b4",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "10": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/fasttree/fasttree/2.1.10+galaxy1",
+            "errors": null,
+            "id": 10,
+            "input_connections": {
+                "input_selector|input": {
+                    "id": 8,
+                    "output_name": "outputAlignment"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "FASTTREE",
+            "outputs": [
+                {
+                    "name": "output",
+                    "type": "nhx"
+                }
+            ],
+            "position": {
+                "left": 670,
+                "top": 130
+            },
+            "post_job_actions": {},
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/fasttree/fasttree/2.1.10+galaxy1",
+            "tool_shed_repository": {
+                "changeset_revision": "bc939965ce41",
+                "name": "fasttree",
+                "owner": "iuc",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"__input_ext\": \"input\", \"advanced_selector\": {\"maximize\": \"min\", \"__current_case__\": 0}, \"chromInfo\": \"/cvmfs/data.galaxyproject.org/managed/len/ucsc/?.len\", \"input_selector\": {\"select_format\": \"fasta\", \"__current_case__\": 0, \"input\": null, \"quote\": false, \"intree_selector\": {\"intree_format\": \"none\", \"__current_case__\": 0}}, \"model_selector\": {\"format\": \"\", \"__current_case__\": 1, \"model\": \"\"}, \"save_logfile\": false, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_uuid": null,
+            "tool_version": "2.1.10+galaxy1",
+            "type": "tool",
+            "uuid": "5532dba5-a4ff-4fa5-8266-e1d680dd2eb5",
+            "when": null,
+            "workflow_outputs": []
+        }
+    },
+    "tags": [],
+    "uuid": "3f2eeb0d-56aa-4055-8248-dfdc32353c1e",
+    "version": 0
+}
