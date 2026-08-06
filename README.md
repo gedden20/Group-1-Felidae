@@ -3,8 +3,8 @@
 Course:
 Cell and Molecular Biology Laboratory
 
-Group Number: one (1)
-_____
+Group Number: 1
+
 
 Members:
 - Ansag,Eugene Kim
