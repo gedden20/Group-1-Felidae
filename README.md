@@ -84,3 +84,4 @@ Phylogenetic Tree Construction
 
 Figure 1. Sequence Alignment
  ! [COX1 alignment] (Galaxy69-[Consensus.seqs on dataset 66_ cons.fasta].mothur.align)
+
