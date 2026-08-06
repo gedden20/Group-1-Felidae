@@ -29,7 +29,7 @@ Among these markers, the mitochondrial cytochrome c oxidase subunit I (COI/COX1)
 
 This study addresses the primary biological question: To what extent can mitochondrial COX1 nucleotide sequences accurately infer the phylogenetic relationships among selected species of the family Felidae? By evaluating the resulting phylogenetic tree, the study also examines the strengths and limitations of using a single mitochondrial marker for evolutionary inference.
 
-##Taxonomic Group
+## Taxonomic Group
 
 This study examines the evolutionary relationships among selected members of the family Felidae using mitochondrial COX1 gene sequences. The ingroup consists of three species from the genus Felis (*Felis catus*, *Felis chaus*, and *Felis silvestris*) and two species from the genus Panthera (*Panthera pardus* and *Panthera tigris*). *Vulpes vulpes* (red fox) was included as the outgroup to root the phylogenetic tree.
 
@@ -61,7 +61,7 @@ Species Included
 
 Outgroup: *Vulpes vulpes* (Red fox)
 
-##Methods 
+## Methods 
 
 Reconstructing Evolutionary Relationships Using Mitochondrial COX1
 Objective: Retrieve authentic mitochondrial cytochrome c oxidase subunit I (COI/COX1) sequences from NCBI, align them in Galaxy, examine a consensus sequence, construct a phylogenetic tree, and compare the resulting relationships with published studies.
