@@ -23,8 +23,40 @@ This repository contains the documentation of our phylogenetic analysis conducte
 
 ## Project Overview
 
-Reconstructing evolutionary relationships among taxa is a fundamental objective of systematic biology, providing crucial insights into lineage divergence, adaptive radiation, and biodiversity[span_1](start_span)[span_1](end_span). Modern molecular phylogenetics relies on nucleotide sequence variation in targeted genetic markers to infer common ancestry across evolutionary time scales[span_2](start_span)[span_2](end_span). 
+Reconstructing evolutionary relationships among taxa is a fundamental objective of systematic biology, providing crucial insights into lineage divergence, adaptive radiation, and biodiversity. Modern molecular phylogenetics relies on nucleotide sequence variation in targeted genetic markers to infer common ancestry across evolutionary time scales. 
 
-Among these markers, the mitochondrial cytochrome c oxidase subunit I (COI/COX1) gene is widely utilized because of its maternal inheritance, low rate of recombination, and optimal balance between conserved and variable regions[span_3](start_span)[span_3](end_span). These characteristics make COI a valuable molecular marker for species identification through DNA barcoding and for investigating evolutionary relationships among closely related taxa[span_4](start_span)[span_4](end_span).
+Among these markers, the mitochondrial cytochrome c oxidase subunit I (COI/COX1) gene is widely utilized because of its maternal inheritance, low rate of recombination, and optimal balance between conserved and variable regions. These characteristics make COI a valuable molecular marker for species identification through DNA barcoding and for investigating evolutionary relationships among closely related taxa.
 
-This study addresses the primary biological question: **To what extent can mitochondrial COX1 nucleotide sequences accurately infer the phylogenetic relationships among selected species of the family Felidae?**[span_5](start_span)[span_5](end_span) By evaluating the resulting phylogenetic tree, the study also examines the strengths and limitations of using a single mitochondrial marker for evolutionary inference[span_6](start_span)[span_6](end_span).
+This study addresses the primary biological question: To what extent can mitochondrial COX1 nucleotide sequences accurately infer the phylogenetic relationships among selected species of the family Felidae? By evaluating the resulting phylogenetic tree, the study also examines the strengths and limitations of using a single mitochondrial marker for evolutionary inference.
+
+Taxonomic Group
+
+This study examines the evolutionary relationships among selected members of the family Felidae using mitochondrial COX1 gene sequences. The ingroup consists of three species from the genus Felis (*Felis catus*, *Felis chaus*, and *Felis silvestris*) and two species from the genus Panthera (*Panthera pardus* and *Panthera tigris*). *Vulpes vulpes* (red fox) was included as the outgroup to root the phylogenetic tree.
+
+Taxonomic Hierarchy
+
+Kingdom: Animalia
+
+Phylum: Chordata
+
+Class: Mammalia
+
+Order: Carnivora
+
+Family: Felidae
+
+Genera: Felis, Panthera
+
+Species Included
+
+*Felis catus* (Domestic cat)
+
+*Felis chaus* (Jungle cat)
+
+*Felis silvestris* (European wildcat)
+
+*Panthera pardus* (Leopard)
+
+*Panthera tigris* (Tiger)
+
+Outgroup: *Vulpes vulpes* (Red fox)
