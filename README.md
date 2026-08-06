@@ -94,7 +94,8 @@ Phylogenetic relationships among the selected taxa were inferred using the FastT
 
 <img width="810" height="441" alt="Phylogenetic_tree" src="https://github.com/user-attachments/assets/8dd3312f-0952-49ce-add2-bf5d11f57564" />
 
-<img width="644" height="513" alt="Galaxy_workflow" src="https://github.com/user-attachments/assets/6a285135-f671-4620-aa27-214e5ba240d9" />
+<img width="1874" height="1280" alt="Galaxy_workflow" src="https://github.com/user-attachments/assets/41087e6f-91fb-47c0-a4b1-d6fe86b937b4" />
+
 
 
 </div>
