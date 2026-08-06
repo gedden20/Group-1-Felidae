@@ -1,4 +1,3 @@
-<img width="4608" height="3456" alt="1000098940" src="https://github.com/user-attachments/assets/6633d773-1fe2-4ffd-91a9-36c78d07f209" />
 # Felidae Phylogenetic Analysis
 
 Course:
@@ -82,6 +81,4 @@ Consensus Sequence Generation
 Phylogenetic Tree Construction
          Phylogenetic relationships among the selected taxa were inferred using the FastTree tool in Galaxy. The aligned COX1 nucleotide sequences produced by MAFFT were used as the input, with nucleotide sequence analysis selected where applicable. FastTree generated a phylogenetic tree in Newick format, which was visualized using a compatible tree viewer. Species labels were checked for clarity, and the designated outgroup was used to aid in rooting and interpreting the evolutionary relationships among the sampled taxa.
 
-Figure 1. Sequence Alignment
- ! [COX1 alignment] (Galaxy69-[Consensus.seqs on dataset 66_ cons.fasta].mothur.align)
 
