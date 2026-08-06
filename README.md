@@ -80,3 +80,6 @@ Consensus Sequence Generation
       
 Phylogenetic Tree Construction
          Phylogenetic relationships among the selected taxa were inferred using the FastTree tool in Galaxy. The aligned COX1 nucleotide sequences produced by MAFFT were used as the input, with nucleotide sequence analysis selected where applicable. FastTree generated a phylogenetic tree in Newick format, which was visualized using a compatible tree viewer. Species labels were checked for clarity, and the designated outgroup was used to aid in rooting and interpreting the evolutionary relationships among the sampled taxa.
+
+Figure 1. Sequence Alignment
+ ! [COX1 alignment] (Galaxy69-[Consensus.seqs on dataset 66_ cons.fasta].mothur.align)
