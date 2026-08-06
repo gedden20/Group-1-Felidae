@@ -63,23 +63,28 @@ Outgroup: *Vulpes vulpes* (Red fox)
 
 ## Methods 
 
-Reconstructing Evolutionary Relationships Using Mitochondrial COX1
+**Reconstructing Evolutionary Relationships Using Mitochondrial COX1**
 
 Objective: Retrieve authentic mitochondrial cytochrome c oxidase subunit I (COI/COX1) sequences from NCBI, align them in Galaxy, examine a consensus sequence, construct a phylogenetic tree, and compare the resulting relationships with published studies.
 
-Sequence Retrieval from NCBI
-            Mitochondrial cytochrome c oxidase subunit I (COX1) nucleotide sequences were retrieved from the National Center for Biotechnology Information (NCBI) Nucleotide database. Each target species was searched individually using the organism name together with the keywords "COX1" and "mitochondrion." Sequence records were verified to ensure they corresponded to the mitochondrial COX1 gene, represented homologous regions, and had comparable sequence lengths. The accession number, sequence length, and record title of each selected sequence were recorded. All sequences were downloaded in FASTA format without modifying the nucleotide sequences.
+**Sequence Retrieval from NCBI**
+
+Mitochondrial cytochrome c oxidase subunit I (COX1) nucleotide sequences were retrieved from the National Center for Biotechnology Information (NCBI) Nucleotide database. Each target species was searched individually using the organism name together with the keywords "COX1" and "mitochondrion." Sequence records were verified to ensure they corresponded to the mitochondrial COX1 gene, represented homologous regions, and had comparable sequence lengths. The accession number, sequence length, and record title of each selected sequence were recorded. All sequences were downloaded in FASTA format without modifying the nucleotide sequences.
             
-Data Preparation in Galaxy
+**Data Preparation in Galaxy**
+
 The downloaded FASTA sequences were uploaded to the Galaxy platform (https://usegalaxy.org) using a dedicated analysis history. Individual FASTA files were combined into a single multi-FASTA dataset containing one sequence for each species. FASTA headers were renamed with short, unique species labels to improve readability in the final phylogenetic tree while preserving the original sequence data.
      
-Multiple Sequence Alignment
+**Multiple Sequence Alignment**
+
 Because the MUSCLE alignment tool was unavailable on the Galaxy server, multiple sequence alignment was performed using MAFFT, an alternative alignment program integrated into Galaxy. The combined multi-FASTA dataset was used as the input, and the default alignment parameters were applied. The resulting alignment was inspected to confirm that homologous nucleotide positions were properly aligned and to identify any sequences with poor alignment, excessive missing data, incorrect orientation, or evidence of non-homologous regions. The finalized aligned dataset was used for all subsequent analyses.
         
-Consensus Sequence Generation
+**Consensus Sequence Generation**
+
 A consensus sequence was generated from the MAFFT alignment using the consensus sequence tool available in Galaxy with the default majority-rule settings. The resulting consensus sequence was examined to determine its length and to identify conserved and variable nucleotide sites across the aligned sequences. The consensus sequence served only as a summary of the alignment and was not used for phylogenetic tree construction.
       
-Phylogenetic Tree Construction
+**Phylogenetic Tree Construction**
+
 Phylogenetic relationships among the selected taxa were inferred using the FastTree tool in Galaxy. The aligned COX1 nucleotide sequences produced by MAFFT were used as the input, with nucleotide sequence analysis selected where applicable. FastTree generated a phylogenetic tree in Newick format, which was visualized using a compatible tree viewer. Species labels were checked for clarity, and the designated outgroup was used to aid in rooting and interpreting the evolutionary relationships among the sampled taxa.
 
 
