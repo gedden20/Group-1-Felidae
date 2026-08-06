@@ -1,4 +1,4 @@
-
+<div align="justify">
 # Felidae Phylogenetic Analysis
 
 Course:
@@ -96,3 +96,4 @@ Phylogenetic relationships among the selected taxa were inferred using the FastT
 
 
 
+<div align="justify">
