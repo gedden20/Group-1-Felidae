@@ -1,5 +1,3 @@
-
-<div align="justify">
             
 # Felidae Phylogenetic Analysis
 
@@ -102,5 +100,3 @@ Phylogenetic relationships among the selected taxa were inferred using the FastT
 
 ***Figure 3.*** Galaxy workflow
 
-
-</div>
