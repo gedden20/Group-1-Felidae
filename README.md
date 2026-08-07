@@ -31,7 +31,7 @@ This study addresses the primary biological question: To what extent can mitocho
 
 ## Taxonomic Group
 
-This study examines the evolutionary relationships among selected members of the family Felidae using mitochondrial COX1 gene sequences. The ingroup consists of three species from the genus Felis (*Felis catus*, *Felis chaus*, and *Felis silvestris*) and two species from the genus Panthera (*Panthera pardus* and *Panthera tigris*). *Vulpes vulpes* (red fox) was included as the outgroup to root the phylogenetic tree.
+This study examines the evolutionary relationships among selected members of the family Felidae using mitochondrial COX1 gene sequences. The ingroup consists of three species from the genus *Felis* (*Felis catus*, *Felis chaus*, and *Felis silvestris*) and two species from the genus *Panthera* (*Panthera pardus* and *Panthera tigris*). *Vulpes vulpes* (red fox) was included as the outgroup to root the phylogenetic tree.
 
 Taxonomic Hierarchy
 
@@ -45,7 +45,7 @@ Order: Carnivora
 
 Family: Felidae
 
-Genera: Felis, Panthera
+Genera: *Felis*, *Panthera*
 
 Species Included
 
@@ -140,31 +140,43 @@ For these reasons, the most supportable conclusion is that COX1 is excellent for
 
 ## References
 
-Chee S. Y. (2015). Limitations of cytochrome oxidase I for the barcoding of Neritidae (Mollusca: Gastropoda) as revealed by Bayesian analysis. Genetics and molecular research : GMR, 14(2), 5677–5684. https://pubmed.ncbi.nlm.nih.gov/26125766/
+Chee S. Y. (2015). Limitations of cytochrome oxidase I for the barcoding of Neritidae (Mollusca: Gastropoda) as revealed by Bayesian analysis. *Genetics and Molecular Research : GMR*, 14(2), 5677–5684. https://pubmed.ncbi.nlm.nih.gov/26125766/
 
-Lee, S., Chesters, D., & Vogler, A. P. (2026). Organelle genomes as universal standard for phylogenetics: a sociotechnical perspective. Trends in ecology & evolution, 41(5), 395–403. https://doi.org/10.1016/j.tree.2026.01.004
 
-Li, G., Davis, B. W., Eizirik, E., & Murphy, W. J. (2016). Phylogenomic evidence for ancient hybridization in the genomes of living cats (Felidae). Genome Research, 26(1), 1–11. https://doi.org/10.1101/gr.186668.114
+Lee, S., Chesters, D., & Vogler, A. P. (2026). Organelle genomes as universal standard for phylogenetics: a sociotechnical perspective. *Trends in ecology & evolution*, 41(5), 395–403. https://doi.org/10.1016/j.tree.2026.01.004
 
-National Center for Biotechnology Information. Nucleotide: FJ185310.1 Felis catus cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/FJ185310.1
 
-National Center for Biotechnology Information. Nucleotide: OR150429.1 Felis chaus isolate JC1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/OR150429.1
+Li, G., Davis, B. W., Eizirik, E., & Murphy, W. J. (2016). Phylogenomic evidence for ancient hybridization in the genomes of living cats (Felidae). *Genome Research*, 26(1), 1–11. https://doi.org/10.1101/gr.186668.114
 
-National Center for Biotechnology Information. Nucleotide: OR178528.1 Felis silvestris isolate T2211 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/OR178528.1
 
-National Center for Biotechnology Information. Nucleotide: PP527113.1 Panthera pardus voucher 28OY cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/PP527113.1
+National Center for Biotechnology Information. Nucleotide: FJ185310.1 *Felis catus* cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/FJ185310.1
 
-National Center for Biotechnology Information. Nucleotide: KP992945.1 Panthera tigris isolate PT1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/KP992945.1
 
-National Center for Biotechnology Information. Nucleotide: ON377296.1 Panthera uncia isolate MGL-306 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/ON377296.1
+National Center for Biotechnology Information. Nucleotide: OR150429.1 *Felis chaus* isolate JC1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/OR150429.1
 
-National Center for Biotechnology Information. Nucleotide: PP527100.1 Vulpes vulpes voucher 1HQU cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/PP527100.1
 
-‎‎Pentinsaari, M., Salmela, H., Mutanen, M., & Roslin, T. (2016). Molecular evolution of a widely-adopted taxonomic marker (COI) across the animal tree of life. Scientific Reports, 6, Article 35275. https://doi.org/10.1038/srep35275
+National Center for Biotechnology Information. Nucleotide: OR178528.1 *Felis silvestris* isolate T2211 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/OR178528.1
 
-Souza, H. V., Marchesin, S. R. C., & Itoyama, M. M. (2016). Analysis of the mitochondrial COI gene and its informative potential for evolutionary inferences in the families Coreidae and Pentatomidae (Heteroptera). Genetics and Molecular Research, 15(1), Article gmr.15017428. https://pubmed.ncbi.nlm.nih.gov/26909963/
 
-Yu, J., Yu, X., Bi, W., Li, Z., Zhou, Y., Ma, R., ... & Liu, J. (2025). Mitogenome diversity and phylogeny of Felidae species. Diversity, 17(9), 634.https://www.semanticscholar.org/paper/Mitogenome-Diversity-and-Phylogeny-of-Felidae-Yu-Yu/a214e798a96cbf5a03629ab7b59137856634d3bc
+National Center for Biotechnology Information. Nucleotide: PP527113.1 *Panthera pardus* voucher 28OY cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/PP527113.1
+
+
+National Center for Biotechnology Information. Nucleotide: KP992945.1 *Panthera tigris* isolate PT1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/KP992945.1
+
+
+National Center for Biotechnology Information. Nucleotide: ON377296.1 *Panthera uncia* isolate MGL-306 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/ON377296.1
+
+
+National Center for Biotechnology Information. Nucleotide: PP527100.1 *Vulpes vulpes* voucher 1HQU cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial. Accessed [July 28, 2026]. https://www.ncbi.nlm.nih.gov/nuccore/PP527100.1
+
+
+‎‎Pentinsaari, M., Salmela, H., Mutanen, M., & Roslin, T. (2016). Molecular evolution of a widely-adopted taxonomic marker (COI) across the animal tree of life. *Scientific Reports*, 6, Article 35275. https://doi.org/10.1038/srep35275
+
+
+Souza, H. V., Marchesin, S. R. C., & Itoyama, M. M. (2016). Analysis of the mitochondrial COI gene and its informative potential for evolutionary inferences in the families Coreidae and Pentatomidae (Heteroptera). *Genetics and Molecular Research*, 15(1), Article gmr.15017428. https://pubmed.ncbi.nlm.nih.gov/26909963/
+
+
+Yu, J., Yu, X., Bi, W., Li, Z., Zhou, Y., Ma, R., ... & Liu, J. (2025). Mitogenome diversity and phylogeny of Felidae species. *Diversity*, 17(9), 634.https://www.semanticscholar.org/paper/Mitogenome-Diversity-and-Phylogeny-of-Felidae-Yu-Yu/a214e798a96cbf5a03629ab7b59137856634d3bc
 
 
 
