@@ -90,6 +90,7 @@ Phylogenetic relationships among the selected taxa were inferred using the FastT
 ## Figures
 
 A consensus mitochondrial COX1 gene sequence derived from multiple Felidae species, representing the most frequent nucleotide at each aligned position.
+
 <img
             width="490" height="240" alt="consensus_sequence" src="https://github.com/user-attachments/assets/5d910b0a-6a03-45a4-834f-12736990512b" 
             />
@@ -97,6 +98,7 @@ A consensus mitochondrial COX1 gene sequence derived from multiple Felidae speci
 ***Figure 1.*** Consensus sequence 
 
 Phylogenetic tree showing the evolutionary relationships among Felidae species based on mitochondrial COX1 gene sequence similarities.
+
 <img 
             width="810" height="441" alt="Phylogenetic_tree" src="https://github.com/user-attachments/assets/8dd3312f-0952-49ce-add2-bf5d11f57564" 
             />
@@ -104,11 +106,13 @@ Phylogenetic tree showing the evolutionary relationships among Felidae species b
 ***Figure 2.*** Phylogenetic tree
 
 A Galaxy workflow showing the steps used to analyze COX1 sequences, including alignment, consensus sequence, and phylogenetic tree creation.
+
 <img 
             width="1874" height="1280" alt="Galaxy_workflow" src="https://github.com/user-attachments/assets/41087e6f-91fb-47c0-a4b1-d6fe86b937b4" 
             />
 
 ***Figure 3.*** Galaxy workflow
+
 
 ## Discussion & Comparison with Published Studies
 
