@@ -87,7 +87,7 @@ A consensus sequence was generated from the MAFFT alignment using the consensus 
 
 Phylogenetic relationships among the selected taxa were inferred using the FastTree tool in Galaxy. The aligned COX1 nucleotide sequences produced by MAFFT were used as the input, with nucleotide sequence analysis selected where applicable. FastTree generated a phylogenetic tree in Newick format, which was visualized using a compatible tree viewer. Species labels were checked for clarity, and the designated outgroup was used to aid in rooting and interpreting the evolutionary relationships among the sampled taxa.
 
-##Figures
+## Figures
 
 A consensus mitochondrial COX1 gene sequence derived from multiple Felidae species, representing the most frequent nucleotide at each aligned position.
 <img
