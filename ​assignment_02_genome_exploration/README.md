@@ -10,7 +10,7 @@
 - **Compute sequence length:** Calculated length in base pairs for each scaffold.
 - **Sort:** Sorted sequence lengths descending to isolate the top 5 largest chromosome-scale scaffolds.
 - **Filter sequences by length:** Evaluated the effect of excluding sequences < 10,000 bp.
-- **EMBOSS getorf:** Predicted candidate ORFs on target scaffold `JAEQMW010000115.1` (scaffold_116) with parameters:
+- **getorf:** Predicted candidate ORFs on target scaffold `JAEQMW010000115.1` (scaffold_116) with parameters:
   - Minimum size: 300 bp (100 amino acids)
   - What to output: Translation of regions between START and STOP codons
 
