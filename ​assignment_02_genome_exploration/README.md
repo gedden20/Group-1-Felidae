@@ -33,5 +33,5 @@ The *Panthera tigris* genome assembly demonstrates high contiguity and chromosom
 
 * **Shared Workflow Link:** [Panthera tigris Genome Exploration Workflow](https://usegalaxy.org/u/ged_den/w/panthera-tigris-genome-exploration-1)
 * **Platform:** UseGalaxy.org
-* **Description:** This workflow encapsulates all automated steps executed in Galaxy for the thenthera tigris* genome assembly exploration, length filtering, and ORF analysis.
+* **Description:** This workflow encapsulates all automated steps executed in Galaxy for the *Pantherathera tigris* genome assembly exploration, length filtering, and ORF analysis.
 
