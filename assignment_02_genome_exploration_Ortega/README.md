@@ -32,3 +32,13 @@ The *Felis chaus* genome assembly demonstrates high contiguity and chromosome-sc
 •Platform: UseGalaxy.org
 
 •Description: This workflow encapsulates all automated steps executed in Galaxy for the *Felis chaus* genome assembly exploration, length filtering, and ORF analysis.
+
+# Screenshots
+
+<img width="517" height="936" alt="18415" src="https://github.com/user-attachments/assets/cb6bc687-134b-4a3b-8551-7b8d76c86302" />
+# Figure 1: Raw Genome FASTA Preview
+
+<img width="1080" height="1624" alt="18417" src="https://github.com/user-attachments/assets/ea3f8ed7-6afa-4aa5-88f4-e39566379c19" />
+# Figure 2: Original Assembly Statistics Summary 
+
+
