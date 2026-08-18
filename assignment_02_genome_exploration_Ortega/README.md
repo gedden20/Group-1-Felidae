@@ -28,5 +28,7 @@ The *Felis chaus* genome assembly demonstrates high contiguity and chromosome-sc
 
 # Galaxy Reproducibility & Workflow
 •Shared Workflow Link : https://usegalaxy.org/u/jerson_ortega/w/felis-chaus-genome-sequence 
+
 •Platform: UseGalaxy.org
+
 •Description: This workflow encapsulates all automated steps executed in Galaxy for the *Felis chaus* genome assembly exploration, length filtering, and ORF analysis.
